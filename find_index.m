@@ -1,3 +1,5 @@
+%Script för att testa funktionen pos_index()
+%
 p = rand(1);
 if(p > 0.5)  % definiera som jämn.
     v = rand(10:1); %skapar en vektor med slumptal
