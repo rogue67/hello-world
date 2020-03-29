@@ -1,7 +1,8 @@
 
 function posIndex = pos_index(V,s)
-%POS_INDEX % Funktion för att hitte det index för det första värdet
+%POS_INDEX Version 1 av Funktion för att hitte det index för det första värdet
 %i den sorterade vektorn V där V[index] >= talet s
+%
 %
 %posIndex = pos_index(V,s)
 
