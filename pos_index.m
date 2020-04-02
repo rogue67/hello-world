@@ -1,5 +1,5 @@
 
-function posIndex = pos_index(V,s)
+function pi = pos_index(V,s)
 %POS_INDEX Version 2 av Funktion för att hitta det index för det första värdet
 %i den sorterade vektorn V där V[index] >= talet s
 %
@@ -11,6 +11,5 @@ L = length(V);
 
 
 
-posIndex = ti;
+pi = ti;
 end
-
